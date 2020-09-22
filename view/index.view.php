@@ -10,7 +10,7 @@
 </head>
 <body>
   <?php
-  require $_SERVER['DOCUMENT_ROOT'].'/ObjektinisUzduotis/router.php';
+  require '../Uzduotisop/view/home.php';
   ?>
 </body>
 </html>
